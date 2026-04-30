@@ -52,3 +52,8 @@ Iwouldliketosaythat cups_drunk
 ```Bash
 britlang execute -p "ファイル名"
 ```
+
+### 制作
+StedTechOrganization™ EngDiv.
+
+License : MITLicense
