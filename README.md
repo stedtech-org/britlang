@@ -4,6 +4,11 @@
 
 BritLang は、コードを書くという行為に気品と奥ゆかしさをもたらすために開発された、イギリス英語風のプログラミング言語です。標準的な（そして少々味気ない）プログラミング用語を、紳士淑女にふさわしい表現へと置き換えます。
 
+### 推奨環境
+Windows11以降
+
+VisualStudioCode
+
 ---
 
 ## 特徴 (Distinguished Features)
@@ -48,10 +53,26 @@ Iwouldliketosaythat cups_drunk
 
 `BritLang.exe` を環境変数に追加した後、以下のコマンドで優雅に実行してください。
 
-(ダブルクオーテーションで囲んでください)
+(ファイル名はダブルクオーテーションで囲んでください)
 ```Bash
 britlang execute -p "ファイル名"
 ```
+
+### コマンド一覧
+| コマンド名 | 使い方 |
+| :--- | :--- |
+|`help`|コマンド一覧を表示|
+|`version`|現在インストールされているBritLangバージョンを表示|
+|`execute`|実行(詳しくは上見て)|
+|`tea`|ティータイム|
+|`america`|頼むからやめてくれ|
+
+### インストール方法
+1.`Release`からzipファイルをダウンロードして、解凍
+
+2.`BritLangInstaller.exe`を実行してからインストール終了まで待つ
+
+3.`VSCode`を起動して、`.brit`ファイルを作成し、実行
 
 ### 制作
 StedTechOrganization™ EngDiv.
