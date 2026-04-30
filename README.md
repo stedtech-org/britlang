@@ -58,6 +58,15 @@ Iwouldliketosaythat cups_drunk
 britlang execute -p "ファイル名"
 ```
 
+### コマンド一覧
+| コマンド名 | 使い方 |
+| :--- | :--- |
+|`help`|コマンド一覧を表示|
+|`version`|現在インストールされているBritLangバージョンを表示|
+|`execute`|実行(詳しくは上見て)|
+|`tea`|ティータイム|
+|`america`|頼むからやめてくれ|
+
 ### インストール方法
 1.`Release`からzipファイルをダウンロードして、解凍
 
