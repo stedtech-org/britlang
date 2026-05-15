@@ -75,6 +75,7 @@ void execute_line(char* line) {
 // --- 追加されたコマンド関数 ---
 void show_help() {
     printf("--- BritLang Official CLI Help ---\n");
+    printf("v-pre.1.3.0 \n");
     printf("Usage:\n");
     printf("execute -p <file> : Execute a .brit file\n");
     printf("america           : ...Don't even ask.\n");
