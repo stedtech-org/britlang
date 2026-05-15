@@ -111,7 +111,7 @@ int main(int argc, char *argv[]) {
         printf("HELL NO\n");
     } 
     else if (strcmp(argv[1], "version") == 0) {
-        printf("v-pre1.2.0\n");
+        printf("v-pre1.3.0\n");
     } 
     else if (strcmp(argv[1], "tea") == 0) {
         show_tea();
